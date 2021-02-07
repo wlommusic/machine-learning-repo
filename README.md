@@ -1,2 +1,2 @@
-# machine-leaning-repo
+# machine-learning-repo
 ML related models
