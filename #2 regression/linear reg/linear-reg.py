@@ -50,6 +50,6 @@ plt.show()
 #to predict salary in any given no of years
 y_pred = reg.predict([[12]])#double [[]] coz it expects 2d array
 print(f"predicted salary: {y_pred}")
-y_pred = reg.predict([[10.5]])
+y_pred = reg.predict([[105]])
 print(f"predicted salary: {y_pred}")
 
