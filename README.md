@@ -1,5 +1,5 @@
 # machine-learning-repo
-ML related models
+ML related models with pyhton implentation and data sets
 <ul>
   <li>Data-preprocessing</li>
   <li>Regression Models
