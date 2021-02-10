@@ -7,7 +7,8 @@ ML related models with pyhton implentation and data sets
   <li>Pandas</li>
   <li>Matplotly </li>
 </ul>
-### These libraries are required for running the models write in the console  -m pip install "The name" to install or alternatively use google collab.
+
+These libraries are required for running the models write in the console  -m pip install "The name" to install or alternatively use google collab.
   
 ## Contents:
 <ul>
