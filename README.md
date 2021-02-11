@@ -20,7 +20,7 @@ These libraries are required for running the models write in the console  -m pip
       <li>Multiple Linear Regression </li>
       <li>polynomial Regression </li>
       <li>Support Vector Regression (SVR)</li>
-      <li>1Decision Tree Regression</li>
+      <li>Decision Tree Regression</li>
       <li>Random Forest Regression</li>
     </ul>
   </li>
