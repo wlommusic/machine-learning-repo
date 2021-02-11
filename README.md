@@ -6,7 +6,7 @@ ML related models with pyhton implentation and data sets
   <li>Numpy</li>
   <li>Pandas</li>
   <li>Matplotly </li>
-  <li>Sklearn </li>
+  <li>Scikit learn </li>
 </ul>
 
 These libraries are required for running the models write in the console  -m pip install "The name" to install or alternatively use google collab.
