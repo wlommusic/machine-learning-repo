@@ -16,10 +16,12 @@ These libraries are required for running the models write in the console  -m pip
   <li>Data-preprocessing</li>
   <li>Regression Models
     <ul>
-      <li>Simple linear-Reg</li>
-      <li>Multiple Linear-Reg</li>
-      <li>polynomial-Reg</li>
-      <li>Support Vector-Reg</li>
+      <li>Simple linear Regression </li>
+      <li>Multiple Linear Regression </li>
+      <li>polynomial Regression </li>
+      <li>Support Vector Regression (SVR)</li>
+      <li>1Decision Tree Regression</li>
+      <li>Random Forest Regression</li>
     </ul>
   </li>
   <li>........</li>
