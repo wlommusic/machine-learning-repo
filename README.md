@@ -1,5 +1,5 @@
 # machine-learning-repo
-ML related models with pyhton implentation and data sets
+ML related models with python implentation and data sets
 
 ## Required Libaries:
 <ul>
