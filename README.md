@@ -24,5 +24,8 @@ These libraries are required for running the models write in the console  -m pip
       <li>Random Forest Regression</li>
     </ul>
   </li>
-  <li>........</li>
+  <li>Classification
+     <ul>
+      <li>Logistic Regression </li>
+  </li>
 </ul>
