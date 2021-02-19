@@ -27,5 +27,7 @@ These libraries are required for running the models write in the console  -m pip
   <li>Classification
      <ul>
       <li>Logistic Regression </li>
+       <li>K-Nearest Neighbour </li>
+       <li>Support vector Machines </li>
   </li>
 </ul>
