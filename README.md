@@ -30,5 +30,9 @@ These libraries are required for running the models write in the console  -m pip
       <li>Logistic Regression </li>
        <li>K-Nearest Neighbour </li>
        <li>Support vector Machines </li>
+       <li>Kernel SVM </li>
+       <li>Naive Bayes </li>
+       <li>Decision Tree classification</li>
+      <li>Random Forest classification</li>
   </li>
 </ul>
