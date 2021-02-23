@@ -1,6 +1,6 @@
 # machine-learning-repo
 ML related models with python implentation and data sets<br>
-###all the datasets and codes in .ipynb format can be found [Here](https://drive.google.com/drive/folders/1b3g_zDupyd-SKKQDn_HPzCDGz41Bugyk?usp=sharing)
+##all the datasets and codes in .ipynb format can be found [Here](https://drive.google.com/drive/folders/1b3g_zDupyd-SKKQDn_HPzCDGz41Bugyk?usp=sharing)
 
 ## Required Libaries:
 <ul>
@@ -30,5 +30,9 @@ These libraries are required for running the models write in the console  -m pip
       <li>Logistic Regression </li>
        <li>K-Nearest Neighbour </li>
        <li>Support vector Machines </li>
+       <li>Kernel SVM </li>
+       <li>Naive Bayes </li>
+       <li>Decision Tree classification</li>
+      <li>Random Forest classification</li>
   </li>
 </ul>
