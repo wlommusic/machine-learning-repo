@@ -36,3 +36,9 @@ These libraries are required for running the models write in the console  -m pip
       <li>Random Forest classification</li>
   </li>
 </ul>
+ <li>Clustering
+     <ul>
+      <li>Kmeans clustering </li>
+       <li>hierarchical clustering </li>
+  </ul>
+  </li>
