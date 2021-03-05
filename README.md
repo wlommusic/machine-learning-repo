@@ -8,9 +8,11 @@ ML related models with python implentation and data sets<br>
   <li>Pandas</li>
   <li>Matplotly </li>
   <li>Scikit learn </li>
+  <li>Scypi </li>
+  <li>Apyori </li>
 </ul>
 
-These libraries are required for running the models write in the console  -m pip install "The name" to install or alternatively use google collab.
+These libraries are required for running the models write in the console  !pip install "The name" to install or alternatively use google collab.
   
 ## Contents:
 <ul>
@@ -40,5 +42,11 @@ These libraries are required for running the models write in the console  -m pip
      <ul>
       <li>Kmeans clustering </li>
        <li>hierarchical clustering </li>
+  </ul>
+  </li>
+<li>Associative learning
+     <ul>
+      <li>Apiori </li>
+       <li>Eclat </li>
   </ul>
   </li>
