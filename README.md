@@ -50,3 +50,10 @@ These libraries are required for running the models write in the console  !pip i
        <li>Eclat </li>
   </ul>
   </li>
+  <li>reinforcement learning
+     <ul>
+      <li>Upper confidence bound </li>
+       <li>Thompson scalling </li>
+  </ul>
+  </li>
+  
