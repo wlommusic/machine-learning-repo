@@ -55,5 +55,10 @@ These libraries are required for running the models write in the console  !pip i
       <li>Upper confidence bound </li>
        <li>Thompson scalling </li>
   </ul>
-  </li>
+  </li> <li>Deep learning
+     <ul>
+      <li>ANN </li>
+       <li>CNN </li>
+  </ul>
+  
   
